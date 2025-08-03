@@ -26,6 +26,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-
+    <ClCompile Include="SetDataWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="SetDataWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="SetDataWidget.ui">
+      <Filter>Header Files</Filter>
+    </QtUic>
   </ItemGroup>
 </Project>
