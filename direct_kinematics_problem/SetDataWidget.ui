@@ -11,18 +11,11 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>DH model paramemters</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
     <layout class="QVBoxLayout" name="verticalLayout">
-     <item>
-      <widget class="QLabel" name="title_lbl">
-       <property name="text">
-        <string>DH model paramemters</string>
-       </property>
-      </widget>
-     </item>
      <item>
       <widget class="QTableWidget" name="tableData_tw">
        <attribute name="horizontalHeaderVisible">
